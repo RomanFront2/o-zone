@@ -1,0 +1,25 @@
+{
+  "name": "o-zone",
+  "version": "1.0.0",
+  "description": "Glo intensive 9_js_next.js_151125",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanFront2/o-zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanFront2/o-zone/issues"
+  },
+  "homepage": "https://github.com/RomanFront2/o-zone#readme",
+  "devDependencies": {
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
