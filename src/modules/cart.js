@@ -20,5 +20,6 @@ const cart = () => {
 
   // cartCloseBtn.onclick = closeCart
   cartCloseBtn.addEventListener('click', closeCart)
+
 }
 export default cart
